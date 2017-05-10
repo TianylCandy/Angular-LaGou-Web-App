@@ -5,3 +5,4 @@
 - gulp自动化构建
 ## 项目截图
 ![Login](https://github.com/TianylCandy/Angular-LaGou-Web-App/blob/master/src/image/login.png)
+![Login](https://github.com/TianylCandy/Angular-LaGou-Web-App/blob/master/src/image/list.png)
